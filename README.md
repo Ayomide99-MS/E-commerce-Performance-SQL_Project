@@ -44,6 +44,11 @@ Screenshot image of the Power BI dashboard that showcases:
 
 ---
 
+## 🖼 Dashboard Preview
+
+![Dashboard](Annotation%202025-04-27%20025655.png)
+---
+
 ## 📊 Key Insights
 
 - **Top Products by Shipping Cost**: T-Shirts and Watches lead the list, implying they are either high in demand or expensive to ship.
