@@ -52,9 +52,6 @@ Screenshot image of the Power BI dashboard that showcases:
 - **Sales Patterns**: Monthly/weekly patterns show when customer activity peaks.
 - **Delivery Priority**: Order priority correlates with average delivery time.
 
-
-## 📷 Dashboard Preview
-![E-commerce Performance Project](./Annotation 2025-04-27 025850.png)
 ---
 
 ## 📌 Conclusion
