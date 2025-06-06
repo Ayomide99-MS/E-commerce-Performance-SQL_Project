@@ -1,5 +1,5 @@
 
-# 🛒 E-commerce Performance Dashboard Project
+# 🛒 E-commerce Performance Project
 
 ## 📄 Project Description
 
