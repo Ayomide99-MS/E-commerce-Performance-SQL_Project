@@ -54,7 +54,7 @@ Screenshot image of the Power BI dashboard that showcases:
 
 
 ## 📷 Dashboard Preview
-![E-commerce Performance Project](./Annotation 2025-04-27 025655.png)
+![E-commerce Performance Project](./Annotation 2025-04-27 025850.png)
 ---
 
 ## 📌 Conclusion
