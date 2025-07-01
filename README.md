@@ -1,7 +1,7 @@
 
 # 🛒 E-commerce Performance Project
 
-## 📄 Project Description
+##  Project Description
 
 This project is an **E-commerce Performance Dashboard** that analyzes and visualizes key metrics of an online retail business for the year 2018. It integrates a SQL-based data analysis with a dynamic Power BI dashboard to provide actionable insights into sales performance, customer behavior, product trends, and profitability.
 
@@ -49,7 +49,7 @@ Screenshot image of the Power BI dashboard that showcases:
 ![Dashboard](Annotation%202025-04-27%20025655.png)
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Top Products by Shipping Cost**: T-Shirts and Watches lead the list, implying they are either high in demand or expensive to ship.
 - **Gender-based Preferences**: Female customers slightly dominate all payment methods.
@@ -59,7 +59,7 @@ Screenshot image of the Power BI dashboard that showcases:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This E-commerce Performance Dashboard project combines **data querying (SQL)** with **data visualization (Power BI)** to provide a clear, data-driven perspective on sales, customer behavior, and operational metrics. It enables stakeholders to make informed decisions regarding inventory, promotions, customer targeting, and logistics. The project reflects the power of integrating backend data analysis with front-end dashboards to drive business intelligence in retail environments.
 
