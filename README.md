@@ -44,10 +44,7 @@ Screenshot image of the Power BI dashboard that showcases:
 
 ---
 
-## 🖼 Dashboard Preview
 
-![Dashboard](Annotation%202025-04-27%20025655.png)
----
 
 ## Key Insights
 
